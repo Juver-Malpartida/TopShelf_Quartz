@@ -16,3 +16,21 @@ c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplicati
 c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\MyService.Schedulerr\obj\Debug\MyService.Schedulerr.csprojResolveAssemblyReference.cache
 C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\MyService.Schedulerr\bin\Debug\MyService.Files.dll
 C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\MyService.Schedulerr\bin\Debug\MyService.Files.pdb
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\MyService.Schedulerr.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\MyService.Schedulerr.pdb
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\Common.Logging.Core.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\Common.Logging.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\MyService.Files.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\Quartz.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\SimpleInjector.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\MyService.Files.pdb
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\Common.Logging.pdb
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\Common.Logging.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\Common.Logging.Core.pdb
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\Common.Logging.Core.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\Quartz.pdb
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\Quartz.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\bin\Debug\SimpleInjector.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\obj\Debug\MyService.Schedulerr.csprojResolveAssemblyReference.cache
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\obj\Debug\MyService.Schedulerr.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\MyService.Schedulerr\obj\Debug\MyService.Schedulerr.pdb

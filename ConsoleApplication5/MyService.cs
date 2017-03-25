@@ -8,6 +8,7 @@ namespace ConsoleApplication5
     public class MyService : IDisposable
     {
         private readonly ILog _logger;
+
         private readonly JobScheduler _scheduler;
 
         public MyService()
