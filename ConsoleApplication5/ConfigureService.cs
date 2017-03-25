@@ -17,7 +17,10 @@ namespace ConsoleApplication5
                 {
                     service.ConstructUsing(() => new MyService($"http://localhost:5156/"));
                     service.WhenStarted((svc, hostControl) => svc.Start(hostControl));
-                    service.WhenStopped((svc, hostControl) => svc.Start(hostControl));
+                    service.WhenStopped((svc, hostControl) => svc.Stop(hostControl));
+                    service.WhenShutdown((svc, hostControl) => svc.Stop(hostControl));
+                    service.WhenPaused((svc, hostControl) => svc.Stop(hostControl));
+                    service.WhenContinued((svc, hostControl) => svc.Start(hostControl));
                 });
                 //Setup Account that window service use to run.  
                 configure.RunAsLocalSystem();

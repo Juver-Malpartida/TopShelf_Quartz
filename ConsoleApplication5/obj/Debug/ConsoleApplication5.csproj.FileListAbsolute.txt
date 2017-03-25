@@ -29,3 +29,42 @@ C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplicati
 C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Topshelf.Log4Net.xml
 C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\MyService.Files.dll
 C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\MyService.Files.pdb
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\quartz_jobs.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Common.Logging.Core.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Common.Logging.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Common.Logging.Log4Net1211.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\log4net.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\MyService.Files.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\MyService.Schedulerr.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Newtonsoft.Json.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Quartz.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\System.Net.Http.Formatting.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\System.Web.Http.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\System.Web.Http.SelfHost.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Topshelf.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Topshelf.Log4Net.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\SimpleInjector.dll
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\MyService.Files.pdb
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\MyService.Schedulerr.pdb
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Common.Logging.pdb
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Common.Logging.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Common.Logging.Core.pdb
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Common.Logging.Core.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Common.Logging.Log4Net1211.pdb
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Common.Logging.Log4Net1211.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\log4net.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Newtonsoft.Json.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Quartz.pdb
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Quartz.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\System.Net.Http.Formatting.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\System.Web.Http.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\System.Web.Http.SelfHost.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Topshelf.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\Topshelf.Log4Net.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\bin\Debug\SimpleInjector.xml
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\SMITH\git hub\Servicio Windows\TopShelf_Quartz\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
