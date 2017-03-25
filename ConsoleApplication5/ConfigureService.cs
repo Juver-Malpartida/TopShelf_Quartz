@@ -15,7 +15,7 @@ namespace ConsoleApplication5
             {
                 configure.Service<MyService>(service =>
                 {
-                    service.ConstructUsing(() => new MyService());
+                    service.ConstructUsing(() => new MyService($"http://localhost:5156/"));
                     service.WhenStarted((svc, hostControl) => svc.Start(hostControl));
                     service.WhenStopped((svc, hostControl) => svc.Start(hostControl));
                 });

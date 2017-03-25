@@ -23,7 +23,8 @@
         <job-name>FolderWatcherJob</job-name>
         <job-group>ReturnMailGroup</job-group>
         <misfire-instruction>SmartPolicy</misfire-instruction>
-        <cron-expression>0 0/1 * 1/1 * ? *</cron-expression>
+        <cron-expression>0 0 0/1 1/1 * ? *</cron-expression>
+        <!--<cron-expression>0 0/1 * 1/1 * ? *</cron-expression>-->
       </cron>
     </trigger>
 
